@@ -170,6 +170,15 @@
     "link": "ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOFpEVlE0TUE1OU9SJmVuY3J5cHRlZElkPUEwMjExNTY1MjA0U1dOTFRZM1haOCZlbmNyeXB0ZWRBZElkPUEwMzIwMTAxM0dLOVVBU0dTREdVRSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU"
    }   
 
-
+{
+    id":" "17", 
+    "name": "acernitro 5 ", 
+    "size": "15.6 inch",  
+    "ssd": "512 GB",  
+    "ram":"8GB", 
+    "colour": "black",
+    "processor": "11th Gen Intel Core i5",
+    "link": "ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOFpEVlE0TUE1OU9SJmVuY3J5cHRlZElkPUEwMjExNTY1MjA0U1dOTFRZM1haOCZlbmNyeXB0ZWRBZElkPUEwMzIwMTAxM0dLOVVBU0dTREdVRSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU"
+   }
 
 
