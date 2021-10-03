@@ -204,4 +204,13 @@
     "link": "ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOFpEVlE0TUE1OU9SJmVuY3J5cHRlZElkPUEwMjExNTY1MjA0U1dOTFRZM1haOCZlbmNyeXB0ZWRBZElkPUEwMzIwMTAxM0dLOVVBU0dTREdVRSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU"
    }
 
-
+  {
+    "id":" "18", 
+    "name": "hp envy ", 
+    "size": "14.3 inch",  
+    "ssd": "512 GB",  
+    "ram":"8GB", 
+    "colour": "black",
+    "processor": " 2.3GHz AMD Ryzen5 4500 3rd gen"
+    "Link":"https://www.amazon.in/dp/B08D5CHBJW/ref=cm_sw_r_wa_apa_glc_fabc_PWWTPR8DF8451T8P5HV6?_encoding=UTF8&psc=1"
+  }
