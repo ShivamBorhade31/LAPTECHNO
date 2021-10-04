@@ -214,3 +214,14 @@
     "processor": " 2.3GHz AMD Ryzen5 4500 3rd gen"
     "Link":"https://www.amazon.in/dp/B08D5CHBJW/ref=cm_sw_r_wa_apa_glc_fabc_PWWTPR8DF8451T8P5HV6?_encoding=UTF8&psc=1"
   }
+  
+   {
+    "id": "19" ,
+    "name": "2020 Apple MacBook Pro",  
+    "size": "13.3-inch",  
+    "ssd": "256 GB",  
+    "ram":"8GB", 
+    "colour": "Silver",
+    "processor": " Apple M1 chip",
+    "link": "https://www.amazon.in/dp/B08N5WG761/ref=cm_sw_r_apan_glt_fabc_EAEB362PC62NM6ZHNJD4?_encoding=UTF8&psc=1"
+  }
