@@ -224,14 +224,14 @@
     "colour": "Silver",
     "processor": " Apple M1 chip",
     "link": "https://www.amazon.in/dp/B08N5WG761/ref=cm_sw_r_apan_glt_fabc_EAEB362PC62NM6ZHNJD4?_encoding=UTF8&psc=1"
-  }
+  },
   {
-    "id": "20',
-    "name": "ALIENWARE M15 R6 GAMING LAPTOP ",
-    "size": "15.6" -inch",    
-    "ssd": "1TB ",   
-    "ram":"32GB",   
-    "colour": "dark grey",   
-    "processor": "11th Generation Intel® Core™ i7   ",
-    "link": "https://www.dell.com/en-in/shop/deals/gaming-laptop-deals?gacd=10398392-9024-5761040-286092735-0&dgc=ST&gclid=CjwKCAjwzOqKBhAWEiwArQGwaP5DJRHYiIyULH-A-syzTZeVcYSTS2_0ACNF0ILgWwEPx-HEiHGtQxoC6b0QAvD_BwE&gclsrc=aw.ds&nclid=zo6EEQC8TMFT9-Ea-FAUcZxGU_Kf5tD1jVSwOXbT0P2WgcKbyQZj-RWBtXhfWscS"
+    "id": "21',
+    "name": "XPS 17 Laptop ",
+    "size": "13.3-inch",    
+    "ssd": "1TB",   
+    "ram":"16GB",   
+    "colour": "silver",   
+    "processor": " 10th Generation Intel® Core™ i7-10750H  ",
+    "link": "https://www.dellstore.com/xps-17-d560030win9s.html"
   }
