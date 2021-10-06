@@ -235,3 +235,14 @@
     "processor": " 10th Generation Intel® Core™ i7-10750H  ",
     "link": "https://www.dellstore.com/xps-17-d560030win9s.html"
   }
+
+  {
+    "id": "22',
+    "name": "Inspiron 14 Laptop",
+    "size": "14.0-inch",    
+    "ssd": "128GB",   
+    "ram":"8GB",   
+    "colour": "Platinum silver",   
+    "processor": " AMD Ryzen™ 5 5500U 6-core/12-thread Mobile Processor with Radeon™ Graphics  ",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-laptop/spd/inspiron-14-5415-laptop/icc-c782507win8#features_section"
+  }
