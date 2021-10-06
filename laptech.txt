@@ -235,3 +235,13 @@
     "processor": " 10th Generation Intel® Core™ i7-10750H  ",
     "link": "https://www.dellstore.com/xps-17-d560030win9s.html"
   }
+ {
+    "id": "22',
+    "name": "Lenovo Ideapad Slim 3i 2021 ",
+    "size": "15.6-inch",    
+    "ssd": "256 GB",   
+    "ram":"8GB",   
+    "colour": "silver",   
+    "processor": " 11th Generation Intel® Core™ i3-1115G4  ",
+    "link": "https://www.lenovo.com/in/en/laptops/ideapad/s-series/IdeaPad-3i-15ITL5/p/88IPS301421"
+  }
