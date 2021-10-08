@@ -235,3 +235,13 @@
     "processor": " 10th Generation Intel® Core™ i7-10750H  ",
     "link": "https://www.dellstore.com/xps-17-d560030win9s.html"
   }
+     
+    "id": "22',
+    "name": "Lenovo Legion 5i ",
+    "size": "15.6 inch ",    
+    "ssd": "256GB",   
+    "ram":"8GB ",   
+    "colour": "Phantom Black ", 
+    "processor": " Intel Core i7 10th Generatio ",
+    "link": "https://www.amazon.in/dp/B08GGCZWRY/ref=cm_sw_r_awdo_navT_g_2YXD23PNSV6BNRSFCAEC"
+  }
