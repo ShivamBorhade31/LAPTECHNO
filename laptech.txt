@@ -235,7 +235,8 @@
     "processor": " 10th Generation Intel® Core™ i7-10750H  ",
     "link": "https://www.dellstore.com/xps-17-d560030win9s.html"
   }
-     
+   
+  {  
     "id": "22',
     "name": "Lenovo Legion 5i ",
     "size": "15.6 inch ",    
@@ -245,3 +246,37 @@
     "processor": " Intel Core i7 10th Generatio ",
     "link": "https://www.amazon.in/dp/B08GGCZWRY/ref=cm_sw_r_awdo_navT_g_2YXD23PNSV6BNRSFCAEC"
   }
+ {
+    "id": "22',
+    "name": "Lenovo Ideapad Slim 3i 2021 ",
+    "size": "15.6-inch",    
+    "ssd": "256 GB",   
+    "ram":"8GB",   
+    "colour": "silver",   
+    "processor": " 11th Generation Intel® Core™ i3-1115G4  ",
+    "link": "https://www.lenovo.com/in/en/laptops/ideapad/s-series/IdeaPad-3i-15ITL5/p/88IPS301421"
+  
+  }
+    "id": "22',
+    "name": "Inspiron 14 Laptop",
+    "size": "14.0-inch",    
+    "ssd": "128GB",   
+    "ram":"8GB",   
+    "colour": "Platinum silver",   
+    "processor": " AMD Ryzen™ 5 5500U 6-core/12-thread Mobile Processor with Radeon™ Graphics  ",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-laptop/spd/inspiron-14-5415-laptop/icc-c782507win8#features_section
+  
+  }
+  
+  {
+    "id": "23',
+    "name": "Microsoft surface laptop ",
+    "size": "13.5-inch",    
+    "ssd": "256 GB",   
+    "ram":"8GB",   
+    "colour": "silver",   
+    "processor": " 10th Generation Intel® Core™ 1035G1 12.4  ",
+    "link": "https://www.amazon.in/Microsoft-i5-1035G1-Touchscreen-Graphics-THH-00023/dp/B08SX5XVBK/ref=asc_df_B08SX5XVBK/?tag=googleshopdes-21&linkCode=df0&hvadid=397009271677&hvpos=&hvnetw=g&hvrand=11318051759787487543&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1180014526954&psc=1&ext_vrnc=hi"
+
+ }
+
