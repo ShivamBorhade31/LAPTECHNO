@@ -235,7 +235,7 @@
     "processor": " 10th Generation Intel® Core™ i7-10750H  ",
     "link": "https://www.dellstore.com/xps-17-d560030win9s.html"
   }
-
+  
   {
     "id": "22',
     "name": "Inspiron 14 Laptop",
@@ -244,5 +244,18 @@
     "ram":"8GB",   
     "colour": "Platinum silver",   
     "processor": " AMD Ryzen™ 5 5500U 6-core/12-thread Mobile Processor with Radeon™ Graphics  ",
-    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-laptop/spd/inspiron-14-5415-laptop/icc-c782507win8#features_section"
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-laptop/spd/inspiron-14-5415-laptop/icc-c782507win8#features_section
+  
+  }
+  
+  {
+    "id": "23',
+    "name": "Microsoft surface laptop ",
+    "size": "13.5-inch",    
+    "ssd": "256 GB",   
+    "ram":"8GB",   
+    "colour": "silver",   
+    "processor": " 10th Generation Intel® Core™ 1035G1 12.4  ",
+    "link": "https://www.amazon.in/Microsoft-i5-1035G1-Touchscreen-Graphics-THH-00023/dp/B08SX5XVBK/ref=asc_df_B08SX5XVBK/?tag=googleshopdes-21&linkCode=df0&hvadid=397009271677&hvpos=&hvnetw=g&hvrand=11318051759787487543&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1180014526954&psc=1&ext_vrnc=hi"
+
   }
