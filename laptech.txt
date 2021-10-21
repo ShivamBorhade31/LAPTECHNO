@@ -279,4 +279,15 @@
     "link": "https://www.amazon.in/Microsoft-i5-1035G1-Touchscreen-Graphics-THH-00023/dp/B08SX5XVBK/ref=asc_df_B08SX5XVBK/?tag=googleshopdes-21&linkCode=df0&hvadid=397009271677&hvpos=&hvnetw=g&hvrand=11318051759787487543&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1180014526954&psc=1&ext_vrnc=hi"
 
  }
+ {
+    "id": "24',
+    "name": "Lenovo  Legion 5 laptop ",
+    "size":"15.6-inch",    
+    "ssd": "512 GB",   
+    "ram":"16GB",   
+    "colour": "phantom blue",   
+    "processor": " 11th Generation Intel core i7-11800H  ",
+    "link": "https://www.amazon.in/dp/B09DMYZW5Q/ref=cm_sw_r_apan_glt_fabc_dl_EJY72FJ9RN8BTDYP3E1A"
+
+ }
 
