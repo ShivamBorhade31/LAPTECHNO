@@ -290,4 +290,14 @@
     "link": "https://www.amazon.in/dp/B09DMYZW5Q/ref=cm_sw_r_apan_glt_fabc_dl_EJY72FJ9RN8BTDYP3E1A"
 
  }
+ {
+    "id": "25',
+    "name": "HP Pavillion ",
+    "size":"15.6-inch",    
+    "ssd": "512 GB",   
+    "ram":"16GB",   
+    "colour": "phantom blue",   
+    "processor": " 11th Generation Intel core i7-11800H  ",
+    "link": "https://www.amazon.in/HP-Pavilion-Eye-Safe-Graphics-15-EG2019TX/dp/B09Z3276LL/ref=asc_df_B09Z3276LL/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1268947452623103880&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9302378&hvtargid=pla-1662399373108&psc=1"
 
+ }
