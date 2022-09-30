@@ -312,3 +312,15 @@
     "link": "https://www.amazon.in/ASUS-ProArt-Studiobook-OLED-40-64/dp/B0B8SRPK6C/ref=sr_1_3?adgrpid=70364867277&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb31edMphA771MZ1p7cNqd-CnjAwp7TuwfLrg8Pb7DH_Mn0EGb9dOYhoCc3oQAvD_BwE&hvadid=398032135398&hvdev=c&hvlocphy=1007788&hvnetw=g&hvqmt=e&hvrand=13050926866829196685&hvtargid=kwd-830538351533&hydadcr=16100_1995411&keywords=proart%2Bstudiobook&qid=1664546278&qu=eyJxc2MiOiIzLjMzIiwicXNhIjoiMS4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-3&th=1"
 
  }
+ 
+ {
+    "id": "27',
+    "name": "Lenovo Ideapad Gaming 3",
+    "size":"39.62cm",    
+    "ssd": "512 GB",   
+    "ram":"8GB",   
+    "colour": "Shadow Black",   
+    "processor": " 11th Gen Intel Core i5-11300H ",
+    "link": "https://www.amazon.in/Lenovo-IdaeaPad-39-62cm-Backlit-82K10198IN/dp/B0B4JQ9X9C/ref=sr_1_2_sspa?crid=30KWFKMULBJUO&keywords=laptops&qid=1664550893&qu=eyJxc2MiOiI5LjI4IiwicXNhIjoiOS40OSIsInFzcCI6IjUuNzMifQ%3D%3D&sprefix=lapto%2Caps%2C387&sr=8-2-spons&psc=1"
+
+ }
