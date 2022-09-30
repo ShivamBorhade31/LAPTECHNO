@@ -348,4 +348,16 @@
     "processor": " 9th Gen Intel Core i5-11300H ",
     "link": "https://shop.gadgetsnow.com/laptops/asus-rog-strix-g17-g713ic-hx056w-amd-ryzen-7-4800h-17-3-inches-gaming-laptop-8gb-512gb-ssd-windows-11-eclipse-gray-2-4-ghz-/10041/p_G354123?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb6w0nv2l7BqrakhaMkD7nVBXbdOc8O6aAqbqzpf73ogMeo78wikaohoCAdwQAvD_BwE"
     }
-
+    
+    
+   {
+    "id": "29',
+    "name": "HP",
+    "size":"43.5cm",    
+    "ssd": "512 GB",   
+    "ram":"4GB",   
+    "colour": "Black",   
+    "processor": " 5th Gen Intel Core i5-11300H ",
+    "link": "https://www.flipkart.com/q/hp-i5-laptops"
+    }
+ 
