@@ -1,17 +1,17 @@
 {
     "id": "1',
-    "name": "Apple Macbook Air ",
+    "name": "HP ",
     "size": "13.3-inch",    
     "ssd": "512GB",   
     "ram":"8GB",   
     "colour": "space grey",   
-    "processor": " Apple  M1 chip  ",
+    "processor": " Intel 5  ",
     "link": "https://www.amazon.in/dp/B08N6DXX1V/ref=cm_sw_r_wa_awdb_imm_ZS30S27VT5PHABKTQX2A?_encoding=UTF8&psc=1"
   }
   
    {
     "id": "2',  
-    "name": "lenovo thinkpad E15 ",  
+    "name": "Lenovo  ",  
     "size": "15.6-inch",  
     "ssd": "512GB",  
     "ram":"8GB", 
@@ -22,18 +22,18 @@
   
   {
     "id": "3', 
-    "name": "Dell  xps 9300",
+    "name": "Dell 15",
     "size": "13.3-inch",
     "ssd": "512GB",
     "ram":"8GB",
-    "colour": "black",
+    "colour": "Silver",
     "processor": " 10th Gen core i5  ",
     "link": "https://www.amazon.in/dp/B08BZNXXZF/ref=cm_sw_r_wa_awdb_imm_V9VX1DJC89TMAHFV2908"
   }
   
   {
     "id": "4',
-    "name": "victus ",
+    "name": "acer ",
     "size": "16.1-inch",
     "ssd": "512GB",
     "ram":"16GB",
@@ -44,7 +44,7 @@
   
     {
     "id": "4',
-    "name": "victus ",
+    "name": "asus ",
     "size": "16.1-inch",
     "ssd": "512GB",
     "ram":"16GB",
