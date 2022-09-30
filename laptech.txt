@@ -83,7 +83,7 @@
     "colour": "black",
     "processor": " 11th Gen Intel Core i5-1135G7   ",
     "link": "https://www.amazon.in/HP-Processor-Windows-Graphics-15s-dr3500TX/dp/B0928T6QM3/ref=sr_1_2_sspa?dchild=1&keywords=laptops&qid=1633024436&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZWVRLSk5JT1hEUUgmZW5jcnlwdGVkSWQ9QTAwNzUwNTcyMzVHN1NCQlBETkg5JmVuY3J5cHRlZEFkSWQ9QTAzMTE5NjkxVldUSUNQNkVFVzRNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
-},
+}
 
 {
     "id": "8",  
@@ -93,17 +93,6 @@
     "ram":"8GB", 
     "colour": "white",
     "processor": " AMD Ryzen 3 3250U   ",
-    "link": "https://www.amazon.in/HP-3-3250-Laptop-Windows-15s-gr0012AU/dp/B08T6THSMQ/ref=sr_1_5?dchild=1&keywords=laptops&qid=1633024436&sr=8-5"
-  },
-  
-  {
-    "id": "88",  
-    "name": "HP 14s ",  
-    "size": "14.6-inch",  
-    "ssd": "512gb",  
-    "ram":"8GB", 
-    "colour": "Silver",
-    "processor": " AMD Ryzen 5 5500U   ",
     "link": "https://www.amazon.in/HP-3-3250-Laptop-Windows-15s-gr0012AU/dp/B08T6THSMQ/ref=sr_1_5?dchild=1&keywords=laptops&qid=1633024436&sr=8-5"
   }
   {
@@ -335,3 +324,15 @@
     "link": "https://www.amazon.in/Lenovo-IdaeaPad-39-62cm-Backlit-82K10198IN/dp/B0B4JQ9X9C/ref=sr_1_2_sspa?crid=30KWFKMULBJUO&keywords=laptops&qid=1664550893&qu=eyJxc2MiOiI5LjI4IiwicXNhIjoiOS40OSIsInFzcCI6IjUuNzMifQ%3D%3D&sprefix=lapto%2Caps%2C387&sr=8-2-spons&psc=1"
 
  }
+ 
+ {
+    "id": "28',
+    "name": "asus ",
+    "size": "16.1-inch",
+    "ssd": "512GB",
+    "ram":"8GB",
+    "colour": "white",
+    "processor": " 8th Gen i5 ",
+    "link": "https://www.amazon.in/ASUS-Vivobook-15-6-inch-Integrated-M515DA-BQ722WS/dp/B09W9MBS1G/ref=sr_1_7?crid=2YA7VQYTGQ5HH&keywords=asus+vivobook+15&qid=1664551676&qu=eyJxc2MiOiI1LjY4IiwicXNhIjoiNS40NCIsInFzcCI6IjIuMTAifQ%3D%3D&sprefix=asus%2Caps%2C245&sr=8-7"
+  
+  }
