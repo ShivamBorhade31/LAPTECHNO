@@ -400,3 +400,13 @@
     "processor": " 12th Gen core i5  ",
     "link": "https://www.amazon.in/Pavilion-Micro-Edge-Display-Graphics-15-Eg2009Tu/dp/B09WDHWMQY/ref=asc_df_B09WDHWMQY/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1624872253314967782&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1650923009162&psc=1"
   }
+   {
+    "id": "999', 
+    "name": "lenovo slim 5 ",
+    "size": "15.6inch",
+    "ssd": "512GB",
+    "ram":"8GB",
+    "colour": "silver",
+    "processor": " 12th Gen core i5  ",
+    "link": "https://www.amazon.in/Pavilion-Micro-Edge-Display-Graphics-15-Eg2009Tu/dp/B09WDHWMQY/ref=asc_df_B09WDHWMQY/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1624872253314967782&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1650923009162&psc=1"
+  }
