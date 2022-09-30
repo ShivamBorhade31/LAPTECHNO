@@ -360,4 +360,14 @@
     "processor": " 5th Gen Intel Core i5-11300H ",
     "link": "https://www.flipkart.com/q/hp-i5-laptops"
     }
+    {
+    "id": "30',
+    "name": "Dell",
+    "size":"35.36cm",    
+    "ssd": "512 GB",   
+    "ram":"8GB",   
+    "colour": "Black",   
+    "processor": " Intel i3-1115G4 ",
+    "link": "https://amzn.eu/d/hx1yR6l"
+    }
  
