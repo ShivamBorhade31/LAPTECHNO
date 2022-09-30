@@ -301,3 +301,14 @@
     "link": "https://www.amazon.in/HP-Pavilion-Eye-Safe-Graphics-15-EG2019TX/dp/B09Z3276LL/ref=asc_df_B09Z3276LL/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1268947452623103880&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9302378&hvtargid=pla-1662399373108&psc=1"
 
  }
+  {
+    "id": "26',
+    "name": "ASUS ProArt Studiobook",
+    "size":"16.0inch",    
+    "ssd": "4 TB",   
+    "ram":"64GB",   
+    "colour": "phantom blue",   
+    "processor": "12th Gen Intel Core i7-12700H",
+    "link": "https://www.amazon.in/ASUS-ProArt-Studiobook-OLED-40-64/dp/B0B8SRPK6C/ref=sr_1_3?adgrpid=70364867277&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb31edMphA771MZ1p7cNqd-CnjAwp7TuwfLrg8Pb7DH_Mn0EGb9dOYhoCc3oQAvD_BwE&hvadid=398032135398&hvdev=c&hvlocphy=1007788&hvnetw=g&hvqmt=e&hvrand=13050926866829196685&hvtargid=kwd-830538351533&hydadcr=16100_1995411&keywords=proart%2Bstudiobook&qid=1664546278&qu=eyJxc2MiOiIzLjMzIiwicXNhIjoiMS4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-3&th=1"
+
+ }
