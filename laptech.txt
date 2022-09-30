@@ -400,6 +400,7 @@
     "processor": " 12th Gen core i5  ",
     "link": "https://www.amazon.in/Pavilion-Micro-Edge-Display-Graphics-15-Eg2009Tu/dp/B09WDHWMQY/ref=asc_df_B09WDHWMQY/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1624872253314967782&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1650923009162&psc=1"
   }
+
    {
     "id": "999', 
     "name": "lenovo slim 5 ",
@@ -418,7 +419,7 @@
     "colour": "Gray",
     "processor": " 10th Gen core i5  ",
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/alienware-m15-r7-gaming-laptop/spd/alienware-m15-r7-gaming-laptop/icc-c780010win8?gacd=10415953-9018-5761040-285934065-0&dgc=PLA&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7ZzojQ--EwND0hYtfMDF2zbuvxa1EeW8dSctOdD1n4mToiZRrfaxhoCfDoQAvD_BwE&gclsrc=aw.ds&nclid=m_OY8hKnX_UM7WsxUkpjfGHL4h4BHNcGgWNmcI_jC8zHiE-lrvSemMZGK4lVpR0k"
-  }
+  },
   
    {
     "id": "362', 
@@ -429,4 +430,15 @@
     "colour": "black",
     "processor": " Ryzen 7 5800h  ",
     "link": "https://amzn.eu/d/7nzxWYl"
-  }
+  },
+{
+    "id": "35', 
+    "name": "Victus 15 Gaming Laptop ",
+    "size": "15.6inch",
+    "ssd": "512GB",
+    "ram":"8GB",
+    "colour": "black",
+    "processor": " 12th Gen core i5  ",
+    "link": "https://www.hp.com/in-en/shop/laptops-tablets/victus-gaming-laptop-15-fa0350tx-6n028pa.html?facetref=c1f0dc02180a14d8"
+}
+
