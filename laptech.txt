@@ -429,3 +429,4 @@
     "colour": "black",
     "processor": " 12th Gen core i5  ",
     "link": "https://www.hp.com/in-en/shop/laptops-tablets/victus-gaming-laptop-15-fa0350tx-6n028pa.html?facetref=c1f0dc02180a14d8"
+}
