@@ -401,6 +401,7 @@
     "link": "https://www.amazon.in/Pavilion-Micro-Edge-Display-Graphics-15-Eg2009Tu/dp/B09WDHWMQY/ref=asc_df_B09WDHWMQY/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1624872253314967782&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1650923009162&psc=1"
   }
 
+
    {
     "id": "999', 
     "name": "lenovo slim 5 ",
@@ -410,6 +411,7 @@
     "colour": "silver",
     "processor": " 12th Gen core i5  ",
     "link": "https://www.amazon.in/Pavilion-Micro-Edge-Display-Graphics-15-Eg2009Tu/dp/B09WDHWMQY/ref=asc_df_B09WDHWMQY/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1624872253314967782&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1650923009162&psc=1"
+
 {
     "id": "34', 
     "name": "Alienware m15 R7",
@@ -419,7 +421,18 @@
     "colour": "Gray",
     "processor": " 10th Gen core i5  ",
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/alienware-m15-r7-gaming-laptop/spd/alienware-m15-r7-gaming-laptop/icc-c780010win8?gacd=10415953-9018-5761040-285934065-0&dgc=PLA&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7ZzojQ--EwND0hYtfMDF2zbuvxa1EeW8dSctOdD1n4mToiZRrfaxhoCfDoQAvD_BwE&gclsrc=aw.ds&nclid=m_OY8hKnX_UM7WsxUkpjfGHL4h4BHNcGgWNmcI_jC8zHiE-lrvSemMZGK4lVpR0k"
-  }
+  },
+  
+   {
+    "id": "362', 
+    "name": "HP OMEN,
+    "size": "15.6nch",
+    "ssd": "1 TB",
+    "ram":"16GB",
+    "colour": "black",
+    "processor": " Ryzen 7 5800h  ",
+    "link": "https://amzn.eu/d/7nzxWYl"
+  },
 {
     "id": "35', 
     "name": "Victus 15 Gaming Laptop ",
@@ -440,3 +453,4 @@
     "processor":"Intel Core I5-11300H 11Th Gen",
     "link": "https://www.amazon.in/Notebook-resolution-i5-11300H-15-6-inch-Fingerprint/dp/B098XK9BPC/ref=asc_df_B098XK9BPC/?tag=googleshopdes-21&linkCode=df0&hvadid=544956768920&hvpos=&hvnetw=g&hvrand=6771530030667701777&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9302378&hvtargid=pla-1492287398117&psc=1"
 }
+
