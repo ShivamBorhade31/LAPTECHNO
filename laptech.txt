@@ -360,4 +360,14 @@
     "processor": " 5th Gen Intel Core i5-11300H ",
     "link": "https://www.flipkart.com/q/hp-i5-laptops"
     }
+  {
+    "id": "31',
+    "name": "Lenovo Ideapad 3",
+    "size":"15.6 cm",    
+    "ssd": "512 GB",   
+    "ram":"8GB",   
+    "colour": "Arctic Grey",   
+    "processor": " 5th Gen Intel Core i5-11300H ",
+    "link": "https://www.amazon.in/Lenovo-Ideapad-Keyboard-Warranty-82KU017KIN/dp/B09MM58Y7Q/ref=asc_df_B09MM58Y7Q/?tag=googleshopmob-21&linkCode=df0&hvadid=544421994919&hvpos=&hvnetw=g&hvrand=4336897000142759088&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1539885107451&psc=1"
+    }
  
