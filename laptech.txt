@@ -380,4 +380,14 @@
     "processor": " 5th Gen Intel Core i5-11300H ",
     "link": "https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Backlit-82K101EEIN/dp/B0B6P5NMPD/ref=sr_1_1_sspa?adgrpid=62424040314&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb2xSXGLLKIcya1p8xukzcke_OQRP2heRox8VNWhNZwZGVG-jxGhj8BoClYUQAvD_BwE&hvadid=398050581775&hvdev=c&hvlocphy=9303927&hvnetw=g&hvqmt=b&hvrand=10456049591440626544&hvtargid=kwd-1264212239414&hydadcr=26891_2178119&keywords=lenovo%2Bideapad%2B3%2Bryzen%2B7%2B4800h&qid=1664560269&qu=eyJxc2MiOiIyLjM3IiwicXNhIjoiMi4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-1-spons&th=1"
     }
- 
+ {
+    "id": "32', 
+    "name": "Dell 15",
+    "size": "13.3-inch",
+    "ssd": "512GB",
+    "ram":"8GB",
+    "colour": "black",
+    "processor": " 10th Gen core i5  ",
+    "link": "https://www.amazon.in/dp/B08BZNXXZF/ref=cm_sw_r_wa_awdb_imm_V9VX1DJC89TMAHFV2908"
+  }
+
