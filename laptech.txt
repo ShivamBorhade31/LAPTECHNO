@@ -335,3 +335,14 @@
     "link": "https://www.amazon.in/Lenovo-IdaeaPad-39-62cm-Backlit-82K10198IN/dp/B0B4JQ9X9C/ref=sr_1_2_sspa?crid=30KWFKMULBJUO&keywords=laptops&qid=1664550893&qu=eyJxc2MiOiI5LjI4IiwicXNhIjoiOS40OSIsInFzcCI6IjUuNzMifQ%3D%3D&sprefix=lapto%2Caps%2C387&sr=8-2-spons&psc=1"
 
  }
+  {
+    "id": "28',
+    "name": "Asus ROG Strix G17",
+    "size":"43.94cm",    
+    "ssd": "512 GB",   
+    "ram":"8GB",   
+    "colour": "Shadow Black",   
+    "processor": " 9th Gen Intel Core i5-11300H ",
+    "link": "https://shop.gadgetsnow.com/laptops/asus-rog-strix-g17-g713ic-hx056w-amd-ryzen-7-4800h-17-3-inches-gaming-laptop-8gb-512gb-ssd-windows-11-eclipse-gray-2-4-ghz-/10041/p_G354123?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb6w0nv2l7BqrakhaMkD7nVBXbdOc8O6aAqbqzpf73ogMeo78wikaohoCAdwQAvD_BwE"
+    }
+
