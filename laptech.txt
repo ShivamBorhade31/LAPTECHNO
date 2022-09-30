@@ -390,4 +390,13 @@
     "processor": " 10th Gen core i5  ",
     "link": "https://www.amazon.in/dp/B08BZNXXZF/ref=cm_sw_r_wa_awdb_imm_V9VX1DJC89TMAHFV2908"
   }
-
+ {
+    "id": "33', 
+    "name": "HP Pavilian ",
+    "size": "15.6inch",
+    "ssd": "512GB",
+    "ram":"8GB",
+    "colour": "silver",
+    "processor": " 12th Gen core i5  ",
+    "link": "https://www.amazon.in/Pavilion-Micro-Edge-Display-Graphics-15-Eg2009Tu/dp/B09WDHWMQY/ref=asc_df_B09WDHWMQY/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=1624872253314967782&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-1650923009162&psc=1"
+  }
